@@ -1,4 +1,10 @@
+#View the Live App
+
+Open [Live App](https://daniel-maina.netlify.app/)
+
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
